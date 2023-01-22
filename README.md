@@ -9,3 +9,7 @@
 最后，祝各位开发者如愿以偿，梦想成真！
 
 *下面是目录~ 点击即可跳转到对应的章节~*
+
+### 总目录
+  1. 认识Java语言和熟悉IDE内操作  
+    [1.1 认识Java语言](https://leftflamelight.github.io/PrincipleDevelopmentSeed/%E6%80%BB%E7%9B%AE%E5%BD%95/1.%20%E8%AE%A4%E8%AF%86Java%E8%AF%AD%E8%A8%80%E5%92%8C%E7%86%9F%E6%82%89IDE%E5%86%85%E6%93%8D%E4%BD%9C/1.1%20%E8%AE%A4%E8%AF%86Java%E8%AF%AD%E8%A8%80.html)
