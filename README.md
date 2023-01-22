@@ -1,4 +1,4 @@
-# PrincipleDevelopmentSeed Java开发文档
+# PrincipleDevelopmentSeed
 
 首先，欢迎各位来到这个开发文档。本开发文档由**LEFT_Flamelight**撰写，总结了**LEFT_Flamelight**的所有开发经验，欢迎大家来阅读。
 
